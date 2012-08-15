@@ -5,17 +5,19 @@ hundreds = ["hundred"]
 thousands = ["thousand"]
 space = ["and"]
 
+#Yeah, I know that the implementation is horrible
+
 amount = 0
 
-q ||= 0
-decimal ||= 0
-i ||= 1
-e ||= 1
-hundred ||= 1
-r ||= 1
-y ||= 1
-o ||= 0
-u ||= 0
+q = 0
+decimal = 0
+i = 1
+e = 1
+hundred = 1
+r = 1
+y = 1
+o = 0
+u = 0
 
 x = 1
 while true
