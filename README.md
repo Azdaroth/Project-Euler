@@ -1,4 +1,4 @@
-# Project Euler in Ruby
+# Project Euler
 
-Problems from Project Euler solved in Ruby.  
+Problems from Project Euler.
 
